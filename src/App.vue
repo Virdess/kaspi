@@ -44,7 +44,7 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'HomePage',
+  name: 'App',
   mounted() {
     let toolbar = document.body.getElementsByClassName('toolbar-background')[0];
     if (toolbar) {
