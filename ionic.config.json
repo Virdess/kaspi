@@ -1,0 +1,8 @@
+{
+  "name": "kaspi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "mode": "ios"
+}
